@@ -4,18 +4,28 @@ public class asdasd {
 	
 	public static void main(String [] args) {
 		
-		int a=345;
+		/*final double pulgadas =2.54; // final palabra clave para no poder cambiar la variable 
 		
-		int b;
+		double cm=6;
 		
-		b=75;
-		
-		int c=a+b;
+		double resultado =cm/pulgadas;*/
 		
 		
+		int operador1,operador2,resultado;
+		
+		operador1 =8;
+		operador2=7;
+		
+		resultado=operador1+operador2;
 		
 		
-		System.out.print(c);
+		//c=7;
+		
+		
+		System.out.println(resultado);
+		
+		
+		
 	}
 	
 	
